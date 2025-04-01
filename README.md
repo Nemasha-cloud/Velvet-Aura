@@ -1,3 +1,4 @@
+
 # Simple Website using HTML, CSS, JavaScript, and PHP
 
 This is a simple website that was created using HTML, CSS, JavaScript, and PHP. The website allows users to browse a selection of fashion items and make purchases. It includes features such as a shopping cart and checkout system.
@@ -27,3 +28,4 @@ The project was developed using the following languages:
 Here is a bar chart showing the distribution of code across these languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RxshiA&layout=compact)
+
