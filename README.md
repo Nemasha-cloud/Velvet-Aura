@@ -7,13 +7,13 @@ This is a simple website that was created using HTML, CSS, JavaScript, and PHP. 
 To set up the project, you will need to follow these steps:
 
 1. Install XAMPP on your computer. You can download XAMPP from the official website: [https://www.apachefriends.org/download.html](https://www.apachefriends.org/download.html)
-2. Clone the repository to your local machine: `git clone https://github.com/your_username/online-fashion.git`
+2. Clone the repository to your local machine: https://github.com/Nemasha-cloud/Velvet-Aura.git
 3. Copy the `online_fashion.sql` file to your XAMPP's `htdocs` directory.
 4. Start XAMPP and launch the Apache and MySQL services.
 5. Open a web browser and go to [http://localhost/phpmyadmin](http://localhost/phpmyadmin).
 6. Import the `online_fashion.sql` file into the database by selecting the "Import" tab and selecting the file.
-7. Copy the contents of the `online-fashion` folder to your XAMPP's `htdocs` directory.
-8. Open a web browser and go to [http://localhost/online-fashion](http://localhost/online-fashion) to view the website.
+7. Copy the contents of the `Velvet-Aura` folder to your XAMPP's `htdocs` directory.
+8. Open a web browser and go to (http://localhost/Velvet-Aura) to view the website.
 
 ## Languages Used
 
